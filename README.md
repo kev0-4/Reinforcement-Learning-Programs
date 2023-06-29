@@ -18,7 +18,7 @@ have been used
 ![image](https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0795b1a4-edd2-4554-8260-5474c8e6684f)
 <img src="icon.jpg" width="324" height="324">
 <p align="center">
-  <img src="https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0cdc9099-c9bf-4a3c-ac91-e77a667d915a" width="256" height="455">
+  <img src="https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0cdc9099-c9bf-4a3c-ac91-e77a667d915a" width="255" height="256">
   <img src="screen2.png" width="256" height="455">
   <img src="screen3.png" width="256" height="455">
 </p>

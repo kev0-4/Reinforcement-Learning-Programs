@@ -13,8 +13,6 @@ Libraries such as<br>
 have been used
 ***Screenshots***
 ![image](https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0cdc9099-c9bf-4a3c-ac91-e77a667d915a)
-<img src="pic.jpeg" width=100px height=100px />
 ![image](https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/fa955aa3-e61d-4870-98b6-54266257a730)
-<img src="pic.jpeg" width="50%" height="50%" />
 ![image](https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0847e232-ac2d-475b-b518-0da8a9131322)
 ![image](https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0795b1a4-edd2-4554-8260-5474c8e6684f)

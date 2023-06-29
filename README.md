@@ -1,4 +1,4 @@
-![image](https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/8dcc53b8-2f62-4cf1-a699-e158bcfce391)# Reinforcement Learning Programs 
+# Reinforcement Learning Programs 
 This repository will contain all the Reinforcement Learning programs
 with/without the help of online tutorials/courses
 
@@ -17,7 +17,7 @@ have been used
 ![image](https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0847e232-ac2d-475b-b518-0da8a9131322)
 ![image](https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0795b1a4-edd2-4554-8260-5474c8e6684f)
 <p align="center"> 
-  <img src="https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/fa955aa3-e61d-4870-98b6-54266257a730" width="1152" height="648">
+  <img src="https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/fa955aa3-e61d-4870-98b6-54266257a730" width="768" height="432">
   <img src="screen2.png" width="256" height="455">
   <img src="screen3.png" width="256" height="455">
 </p>

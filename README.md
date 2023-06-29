@@ -12,7 +12,7 @@ Libraries such as<br>
 4. **os**<br>
 have been used
 ***Screenshots***
-<p align="center"> 
+<p align="left"> 
   <img src="https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0cdc9099-c9bf-4a3c-ac91-e77a667d915a" width="740" height="525">
   <img src="https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/fa955aa3-e61d-4870-98b6-54266257a730" width="768" height="432">
   <img src="https://github.com/kev0-4/Reinforcement-Learning-Programs/assets/110706642/0847e232-ac2d-475b-b518-0da8a9131322" width="768" height="432">

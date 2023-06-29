@@ -4,7 +4,7 @@ with/without the help of online tutorials/courses
 
 ## Training CartPole-V0
 Trained and created model for 'CartPole-V0' from ***OpenAI Gym Enviroments*** <br>
-Demonstration of 2 major algorithms has been done in the code - PPO & DQN <br>
+Model Training has been Demonstration by 2 major algorithms in the code - PPO & DQN <br>
 Libraries such as<br>
 1. **Tensorflow**<br>
 2. **stable_baselines3**<br>
